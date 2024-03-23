@@ -19,3 +19,5 @@ git commit -am "Adding instrictions to file README.md"
 Merge changes from the "development" branch into the "main" branch. Before merging change to branch "main".
 git checkout main
 git marge development
+Pushing changes to remote repository
+git push
